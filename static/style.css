@@ -1,0 +1,14 @@
+html, body{
+    color: black;
+    background-color: wheat;
+    /*background-image: url("ima/kakaroto.jpg");*/
+    /*bbackground-repeat: no-repeat;*/
+}
+
+p{
+  color: cadetblue;
+}
+
+h1{
+    color: black;
+}
